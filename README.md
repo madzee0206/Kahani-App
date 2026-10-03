@@ -340,4 +340,3 @@ Screenshots of the application are included in the project report to demonstrate
 
 **KAHANI – Stories Beyond Words** demonstrates how a Java-based storytelling application can combine interactive learning with accessibility features. The project brings together storytelling, quizzes, learning records, accessibility services, recommendation, data analysis, and optimization into one application designed for children.
 
-**Developed as an academic project in Computer Science and Artificial Intelligence.**
