@@ -1,0 +1,11 @@
+userId,storyId,age,scenesCompleted,quizScore,totalQuestions,timeSpentMinutes,genre
+101,1,7,4,2,2,5.5,Animals
+101,2,7,4,1,2,6.2,Animals
+101,3,7,4,2,2,7.1,Adventure
+102,1,8,4,2,2,5.0,Animals
+102,3,8,3,1,2,6.4,Adventure
+103,9,10,4,2,2,5.9,Fantasy
+103,3,10,4,2,2,6.7,Adventure
+104,2,9,4,2,2,5.8,Animals
+104,1,9,4,1,2,7.0,Animals
+105,3,11,4,2,2,6.1,Adventure
