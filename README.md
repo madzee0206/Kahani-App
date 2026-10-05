@@ -302,41 +302,42 @@ Possible future improvements include:
 * Mobile or web-based versions
 
 ---
+Application Output:
 
-## Complete Source Code
+<img width="1208" height="751" alt="{401AE7A1-BBB5-454B-9BE4-15A876C394B2}" src="https://github.com/user-attachments/assets/f90cbbfa-c983-41ed-b090-7694111054cd" />
+<img width="1189" height="804" alt="{E2EA5048-72CA-4C46-81FD-5FA103EE1D92}" src="https://github.com/user-attachments/assets/97ac152d-290e-4ef9-bd56-8288f024e507" />
+<img width="1213" height="757" alt="{E650D0C6-C563-4365-95E8-DCE1440CEC6E}" src="https://github.com/user-attachments/assets/f3dc6472-0df1-4cb6-a66d-2d2b0adf5cdc" />
+<img width="1206" height="762" alt="{75B2109F-E727-4B2F-8B16-50B6E37B3922}" src="https://github.com/user-attachments/assets/30fb69bc-a2eb-4ad8-8605-bbc8cc0d6a40" />
+<img width="1204" height="753" alt="{F2082AD5-7CCA-4A2F-85E1-32D0D9D95C42}" src="https://github.com/user-attachments/assets/2697c555-682a-4825-ab13-b095a04d2fed" />
+<img width="1203" height="757" alt="{A5A6E659-EAC3-4AAD-846B-F3C94477D5D5}" src="https://github.com/user-attachments/assets/a3e8a452-1469-42f4-be08-3164c707185a" />
+<img width="1209" height="754" alt="{A53C1C91-08A5-434F-B8BB-D3183542E35B}" src="https://github.com/user-attachments/assets/a5a9db91-5010-4889-bfcc-5b74a6ab7904" />
+<img width="1207" height="750" alt="{CC5DF598-5EBD-441B-8FE0-27FC8BF15A9B}" src="https://github.com/user-attachments/assets/08c649b8-5400-4a1e-8837-950146d20e90" />
+<img width="1209" height="757" alt="{8CDD277B-F896-4EF4-A46B-D54B63F61A43}" src="https://github.com/user-attachments/assets/98efbb68-721a-4d9a-a40d-270a4125a308" />
+<img width="1213" height="753" alt="{A52C7675-F70A-4146-A697-BE454BB31CC3}" src="https://github.com/user-attachments/assets/59a7044a-5694-4eef-bfe1-7738ea637a29" />
+<img width="1193" height="761" alt="{5C23139A-148E-455A-A49F-8B247F657715}" src="https://github.com/user-attachments/assets/2b904e30-5902-4062-b079-33177d50d399" />
+<img width="1178" height="746" alt="{D19867DD-5B51-4EF5-BF22-4CC181D93357}" src="https://github.com/user-attachments/assets/f43fddad-b6d8-4682-98c0-fefda79e23ee" />
+<img width="1181" height="762" alt="{4F4BCE27-ED9E-491E-9D74-359F992861BE}" src="https://github.com/user-attachments/assets/20225055-8873-403e-8616-fc4e7135f5c4" />
+<img width="1210" height="753" alt="{0602AD39-0E25-4F17-9DDE-987EA5F6D674}" src="https://github.com/user-attachments/assets/c741f99d-6fab-4a87-9c36-e65969faf0e0" />
+<img width="1202" height="755" alt="{D09E01A4-6BE4-40E0-B894-E218D1FBFAE7}" src="https://github.com/user-attachments/assets/074e3269-b8a5-477c-91f7-1da5b46e27e3" />
+<img width="1209" height="753" alt="{B0E987B1-4ACB-4FDA-94E2-25DFA7AC81BE}" src="https://github.com/user-attachments/assets/bfad5258-ad44-4fed-861c-cd6e6b94b9d9" />
+<img width="1184" height="755" alt="{68692A14-ACD1-4139-93AF-6196355088C7}" src="https://github.com/user-attachments/assets/4052a7e5-043e-430f-97b7-b3fe44a3647d" />
 
-The complete Java source code of **KAHANI – Stories Beyond Words** is included in this repository.
 
-The repository can be used to study the project structure, implementation, accessibility components, learning modules, and application interface.
 
-**GitHub Repository:**
-`[Paste your GitHub repository link here]`
 
----
 
-## Project Documentation
 
-The project report contains detailed information about:
 
-* Introduction
-* Problem statement
-* Objectives
-* System design
-* Functional modules
-* Accessibility implementation
-* Data processing
-* Recommendation system
-* Optimization
-* Testing
-* Results
-* Limitations
-* Future enhancements
 
-Screenshots of the application are included in the project report to demonstrate the implemented features.
 
----
 
-## Conclusion
 
-**KAHANI – Stories Beyond Words** demonstrates how a Java-based storytelling application can combine interactive learning with accessibility features. The project brings together storytelling, quizzes, learning records, accessibility services, recommendation, data analysis, and optimization into one application designed for children.
+
+
+
+
+
+
+
+
 
